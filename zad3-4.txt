@@ -1,0 +1,17 @@
+package pl.lublin.wsei.java.cwiczenia; //komentarz jednolinijkowy
+
+/**
+ * @author Sebastian Sęczkowski
+ * @version 1.0
+ * */
+
+public class Main {
+
+    /* komentarz
+    wielolinijkowy */
+
+    public static void main(String[] args) {
+        System.out.println("Hello Java world\n");
+    }
+}
+
